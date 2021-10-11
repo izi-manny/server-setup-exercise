@@ -2,7 +2,7 @@
   "name": "back-end-1-lab",
   "version": "1.0.0",
   "description": "Back End 1 - an exercise in setting up a server using Node and Express. Part of Week 5 in DevMountain's Web Development Course.",
-  "main": "index.js",
+  "main": "server/server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
